@@ -1,0 +1,5 @@
+Modularity is a design principle in software engineering that emphasizes breaking a system down into smaller, independent, and reusable components. Modules are the fundamental building blocks of modular systems.
+
+In Python, modules are files that contain Python code and can be imported into other Python code. Modules can provide a set of related functions, classes, and variables, and can be used to organize code into logical units.
+
+For example, let's say we have a Python program that needs to perform various mathematical calculations. We could put all of the code for these calculations into a single file, but this could make the code difficult to read and maintain. Instead, we can create a module called math_utils.py and define all of the necessary functions in that file. Here's an example of what that might look like
